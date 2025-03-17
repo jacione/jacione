@@ -6,7 +6,7 @@
 - 💞️ I’m open to collaborate on pretty much anything.
 
 # Fun facts about me
-- I'm a huge fan of both classic and modern fantasy/sci-fi. From Stoker to Sanderson, Wells to Weir, I love it.
+- I'm a huge fan of both classic and modern fantasy/sci-fi. From Stoker to Sanderson and Wells to Weir.
 - I'm embarrasingly afraid of bees, wasps, and hornets (even though I've never been stung).
 - I've never broken a bone, but I have knocked out a few teeth.
 - I made an RC car from scratch for my 2-year old. It took me the better part of a summer to design and build it. It took him the better part of 15 minutes to break it. I'd do it again in a heartbeat.
