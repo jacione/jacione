@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about linguistics in my spare time. Fascinating subject.
 
 # Fun facts about me
-- I'm a huge fan of both classic and modern fantasy/sci-fi. From Stoker to Sanderson and Wells to Weir.
+- I'm a huge fan of both classic and modern fantasy/sci-fi. From Stoker to Sanderson; From Wells to Weir.
 - I'm embarrasingly afraid of bees, wasps, and hornets (even though I've never been stung).
 - I've never broken a bone, but I did knock out three teeth as a kid.
 - I made an RC car from scratch. It took me the better part of a summer to design and build it. It took my 2-year old the better part of 15 minutes to break it. I'd do it again in a heartbeat.
