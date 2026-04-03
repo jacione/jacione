@@ -2,7 +2,7 @@
 - 👨‍🎓 I'm currently working toward a PhD in physics at Brigham Young University. 
 - 👀 I’m interested in computational imaging, algorithm development, device interfacing, experiment automation.
 - ⌨ I'm pretty good with Python and LaTeX, with a vague grasp of C, C++, Javascript, and a few other languages.
-- 🌱 I’m currently learning about linguistics in my spare time. Fascinating subject.
+- 🌱 I’m currently learning about Old English in my spare time.
 
 # Fun facts about me
 - I'm a huge fan of both classic and modern fantasy/sci-fi. From Stoker to Sanderson; From Wells to Weir.
