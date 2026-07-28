@@ -1,8 +1,8 @@
 # Hi, I'm Nick Porter (@jacione). 
 - 👨‍🎓 I'm currently working toward a PhD in physics at Brigham Young University. 
 - 👀 I’m interested in computational imaging, algorithm development, device interfacing, experiment automation.
-- ⌨ I'm pretty good with Python and LaTeX, with a vague grasp of C, C++, Javascript, and a few other languages.
-- 🌱 I’m currently working on a multi-agent system of LLMs which uses a boids-like flocking model to create emergent behavior in "idea space" (hopefully).
+- ⌨ I'm pretty good with Python, with a vague grasp of C, C++, Javascript, and a few other languages.
+- 🌱 I’m currently working on building my own server to self-host my own cloud storage, LLM chatbots, and IoT devices so that I can maintain data privacy and avoid subscriptions.
 
 # Fun facts about me
 - I'm a huge fan of both classic and modern fantasy/sci-fi. From Stoker to Sanderson; From Wells to Weir.
